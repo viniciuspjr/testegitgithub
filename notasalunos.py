@@ -21,7 +21,7 @@ while True:
             elif vet[n] > segmaior:
                 segmaior = vet[n]
             soma = soma + vet[n]
-            if vet[n] >= 7:
+            if vet[n] >= 8:
                 apr = apr + 1
             if vet[n] >= 4 and vet[n] < 7:
                 rec = rec + 1
